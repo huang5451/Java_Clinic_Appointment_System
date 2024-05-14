@@ -1,0 +1,4 @@
+1,Peter,Fever,Temperature:39.2 celsius,3/9/2000,1/3/2023,12:00 p.m.
+2,YOON,Covid,already give medical,8/5/2000,1/3/2023,11:00 a.m.
+3,zoko,Hurt,just small case,3/4/2003,1/3/2023,11:30 p.m.
+4,Pan,Covid,Temperatue: 39.3 celsius,1/3/2000,14/3/2023,1:10 p.m
